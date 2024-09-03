@@ -12,7 +12,6 @@ Spatial Analysis and Econometrics with PySAL
 
 ### Instructors
 
-* Pedro Amaral - Universidade Federal de Minas Gerais
 * Luc Anselin - University of Chicago
 * Eli Knaap - San Diego State University
 * Serge Rey - San Diego State University
