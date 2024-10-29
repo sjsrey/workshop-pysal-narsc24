@@ -12,9 +12,11 @@ Spatial Analysis and Econometrics with PySAL
 
 ### Instructors
 
+* Pedro Amaral - Universidade Federal de Minas Gerais
 * Luc Anselin - University of Chicago
 * Eli Knaap - San Diego State University
 * Serge Rey - San Diego State University
+* Levi Wolf - University of Bristol
 
 ---
 
@@ -27,20 +29,19 @@ Spatial Analysis and Econometrics with PySAL
 * spatial weights
 * spatial autocorrelation
 
-2. Spatial Segmentation
-
-* geodemographic analysis
-* segregation analysis
-
-### Break
-
-### Part 2
-
-3. Spatial Econometrics
+2. Spatial Econometrics
 
 * cross sectional models
 * spatial regime models
 * spatial SUR models
+
+
+### Break
+
+### Part 2
+3. Segregation and Geodemographics
+
+4. Spatial Optimization
 
 ## Getting Started
 
