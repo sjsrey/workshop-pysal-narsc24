@@ -10,14 +10,14 @@ On windows, all our work will begin from an anaconda prompt, which you can start
 
 ![anacondaprompt](figs/readmefigs/anacondastartwin.png)
 
-Start a terminal and navigate to the directory of the downloaded/ cloned materials. For example, if the materials now live in the directory `/Users/knaaptime/Downloads/workshop-pysal-narsc23` , you need to navigate to that directory from the terminal (using command `cd` ):
+Start a terminal and navigate to the directory of the downloaded/ cloned materials. For example, if the materials now live in the directory `/Users/knaaptime/Downloads/workshop-pysal-narsc` , you need to navigate to that directory from the terminal (using command `cd` ):
 
 ![directory](figs/readmefigs/directory.png)
 
 Once we have done that, run:
 
 ``` bash
-conda-env create -f environment.yml
+mamba env create -f environment.yml
 ```
 
 This will build a conda python 3.10 environment that sandboxes the installation of the required packages for this workshop so we don't break anything in your computer's system Python (if it has one).
@@ -27,7 +27,7 @@ This may take 10-15 minutes to complete depending on the speed of your network c
 Once this completes, you can activate the workshop environment with:
 
 ``` bash
-conda activate workshop-pysal-narsc23
+mamba activate workshop-pysal
 ```
 
 You're now all setup for the tutorial!
