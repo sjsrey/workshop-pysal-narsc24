@@ -1,4 +1,4 @@
-name: workshop-pysal-narsc23
+name: workshop-pysal
 channels:
   - conda-forge
   - defaults
@@ -12,6 +12,7 @@ dependencies:
   - folium
   - ipywidgets
   - jupyterlab
+  - geodatasets
   - pysal
   - nbconvert
   - networkx
@@ -25,3 +26,4 @@ dependencies:
   - rasterio
   - contextily
   - geosnap
+  - geodatasets
