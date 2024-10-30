@@ -30,10 +30,12 @@ Spatial Analysis and Econometrics with PySAL
 * spatial autocorrelation
 
 2. Spatial Econometrics
-
-* cross sectional models
-* spatial regime models
-* spatial SUR models
+* Basic Data Management
+* OLS with Spatial Diagnostics
+* Specification Search
+* The SLX model
+* Spatial Lag and Spatial Durbin models 
+* Spatial Impacts
 
 
 ### Break
