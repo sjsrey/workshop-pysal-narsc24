@@ -22,28 +22,42 @@ Spatial Analysis and Econometrics with PySAL
 
 ## Schedule
 
-### Part 1
+* 8:00-9:50 1. Spatial Data Analysis
+  
+  * Introduction
+  * Geoprocessing
+  * Visualization
+  * Spatial Weights
+  * Spatial Autocorrelation
 
-1. Spatial Data Analysis
-* geoprocessing & visualization
-* spatial weights
-* spatial autocorrelation
+* 9:50-10:10 Break
 
-2. Spatial Econometrics
-* Basic Data Management
-* OLS with Spatial Diagnostics
-* Specification Search
-* The SLX model
-* Spatial Lag and Spatial Durbin models 
-* Spatial Impacts
+* 10:10-12:00 2. Spatial Econometrics
 
+  * Basic Data Management
+  * OLS with Spatial Diagnostics
+  * Specification Search
+  * The SLX model
+  * Spatial Lag and Spatial Durbin Models 
+  * Spatial Impacts
+  
+* 12:00-1:00 Lunch
 
-### Break
+* 1:00-2:50 3. Segregation and Geodemographics
 
-### Part 2
-3. Segregation and Geodemographics
+  * GeoSNAP
+  * Geodemographics
+  * Segregation
+  
+  
+* 2:50-3:10 Break
 
-4. Spatial Optimization
+* 3:10-5:00 4. Spatial Optimzation
+
+  * Mixed Integer Linear Programming
+  * P-median Problem
+  * Coverage Problems
+
 
 ## Getting Started
 
