@@ -18,6 +18,7 @@ dependencies:
   - scikit-learn
   - seaborn
   - statsmodels
+  - geodatasets
   - hvplot
   - holoviews
   - geoviews
