@@ -64,7 +64,7 @@ Spatial Analysis and Econometrics with PySAL
 There are three options for working with the content of the workshop:
 
 1. Binder (no-installation, ephemeral)
-2. Codespace (no-installation, statefull)
+2. Codespace (no-installation, stateful)
 3. Local installation 
 
 
