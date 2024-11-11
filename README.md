@@ -69,7 +69,7 @@ There are three options for working with the content of the workshop:
 
 
 ### Binder
-This option relies on resources that run in the could. A virtual machine will be built for you. This should take 10-15 minutes to build.
+This option relies on resources that run in the cloud. A virtual machine will be built for you. This should take 10-15 minutes to build.
 Once it is built, you can run the notebooks via a browser.
 
 The key thing to keep in mind with this option is that it is emphemeral. Once you should down, or disconnect, your work will be gone (unless you save your notebooks via downloading as you are working in binder).
