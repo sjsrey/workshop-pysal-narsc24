@@ -59,11 +59,49 @@ Spatial Analysis and Econometrics with PySAL
   * Coverage Problems
 
 
-## Getting Started
+## Getting Set Up
+
+There are three options for working with the content of the workshop:
+
+1. Binder (no-installation, ephemeral)
+2. Codespace (no-installation, statefull)
+3. Local installation 
+
+
+### Binder
+This option relies on resources that run in the could. A virtual machine will be built for you. This should take 10-15 minutes to build.
+Once it is built, you can run the notebooks via a browser.
+
+The key thing to keep in mind with this option is that it is emphemeral. Once you should down, or disconnect, your work will be gone (unless you save your notebooks via downloading as you are working in binder).
 
 __To get started immediately without installing or downloading anything, click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/workshop-pysal-narsc24/main?urlpath=lab)__
 
+You will see binder starting up:
+
+![binder1](docs/figs/binder1.png)
+
+Once the virtual machine is up you will see:
+
+![binder1](docs/figs/binder2.png)
+
+and you are ready to go.
+
+
+
+### Codespaces
+
+If you would like to use remote resources, but have your work saved, then the Codespaces option is what you want.
+For this you need to have a github account XXX.
+
+Once you have your github account you can create the codespace:
+
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sjsrey/workshop-pysal-narsc24)
+
+When the codespace is built, your browser should look something like:
+
+![codespace](docs/figs/codespace.png)
+
+### Local Installation
 
 If you are familiar with GitHub, you should clone or fork this GitHub repository to a specific directory. Cloning can be done by:
 
