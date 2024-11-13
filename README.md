@@ -52,7 +52,7 @@ Spatial Analysis and Econometrics with PySAL
   
 * 2:50-3:10 Break
 
-* 3:10-5:00 4. Spatial Optimzation
+* 3:10-5:00 4. Spatial Optimization
 
   * Mixed Integer Linear Programming
   * P-median Problem
